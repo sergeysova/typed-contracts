@@ -5267,10 +5267,10 @@ markdown-it@10.0.0:
     mdurl "^1.0.1"
     uc.micro "^1.0.5"
 
-markdownlint@^0.18.0:
-  version "0.18.0"
-  resolved "https://registry.yarnpkg.com/markdownlint/-/markdownlint-0.18.0.tgz#906ab9229da4c4be074d0b79de23a69bfa8471d3"
-  integrity sha512-nQAfK9Pbq0ZRoMC/abNGterEnV3kL8MZmi0WHhw8WJKoIbsm3cXGufGsxzCRvjW15cxe74KWcxRSKqwplS26Bw==
+markdownlint@^0.20.1:
+  version "0.20.1"
+  resolved "https://registry.yarnpkg.com/markdownlint/-/markdownlint-0.20.1.tgz#c22609b37422d19cbb38e84fb11c7bae789ba6f0"
+  integrity sha512-jq1qt0QkzY6AiN6O3tq+8SmUlvKfhx9GRKBn/IWEuN6RM5xBZG47rfW9Fn0eRvuozf5Xc59dRaLUZEO0XiyGOg==
   dependencies:
     markdown-it "10.0.0"
 
