@@ -36,6 +36,8 @@ export declare class UnionError extends ValidationError {
   );
 }
 
+type Custom<T> = (name: string, value: unknown) => ValidationError | T
+
 export type Contract<T> = {
   (valueName: string): {
     (value: unknown): ValidationError | T,
